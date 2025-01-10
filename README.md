@@ -11,7 +11,7 @@ The dataset includes the following features:
 - **SkinThickness**: Triceps skin fold thickness (mm)  📏
 - **Insulin**: 2-Hour serum insulin (mu U/ml)  🧪
 - **BMI**: Body mass index (weight in kg/(height in m)^2) ⚖️
-- **DiabetesPedigreeFunction**: A measure of likelihood of diabetes based on family history.  
+- **DiabetesPedigreeFunction**: A measure of likelihood of diabetes based on family history.    
 - **Age**: Age of the individual (years)  🎂
 - **Outcome**: Whether the individual has diabetes (1) or not (0) ✅❌
  
