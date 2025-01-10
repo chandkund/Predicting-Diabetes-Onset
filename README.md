@@ -14,7 +14,7 @@ The dataset includes the following features:
 - **DiabetesPedigreeFunction**: A measure of likelihood of diabetes based on family history.
 - **Age**: Age of the individual (years)  🎂
 - **Outcome**: Whether the individual has diabetes (1) or not (0) ✅❌
-
+ 
 ## Models Used
 - **GaussianNB**
 - **DecisionTreeClassifier**
