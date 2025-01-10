@@ -6,7 +6,7 @@ This project focuses on predicting the onset of diabetes using various machine l
 ## Dataset
 The dataset includes the following features:
 - **Pregnancies**: Number of pregnancies  🤰
-- **Glucose**: Plasma glucose concentration (2 hours in an oral glucose tolerance test)  🩸
+- **Glucose**: Plasma glucose concentration (2 hours in an oral glucose tolerance test)  🩸 
 - **BloodPressure**: Diastolic blood pressure (mm Hg)  💉
 - **SkinThickness**: Triceps skin fold thickness (mm)  📏
 - **Insulin**: 2-Hour serum insulin (mu U/ml)  🧪
